@@ -1,0 +1,2 @@
+# depremverisi
+kandilli demprem verisi
