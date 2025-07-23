@@ -1,0 +1,1687 @@
+[
+  {
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.1863,
+            35.0893
+          ]
+        },
+        "properties": {
+          "id": "ALulkPv7nQx4h",
+          "title": "GIRIT ADASI (AKDENIZ)",
+          "magnitude": 2.9,
+          "depth": 5.2,
+          "date": "2025.07.23 14:23:22",
+          "epiCenter": "Yunanistan",
+          "closestCity": "Muğla",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Dalaman Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.7005,
+            36.65
+          ]
+        },
+        "properties": {
+          "id": "IxJLTU3huGYYO",
+          "title": "EGE DENIZI",
+          "magnitude": 1.8,
+          "depth": 2.3,
+          "date": "2025.07.23 14:02:04",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "Yunanistan",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.1767,
+            36.0745
+          ]
+        },
+        "properties": {
+          "id": "gdd3VYDxQYcI_",
+          "title": "EGE DENIZI",
+          "magnitude": 3.5,
+          "depth": 7.8,
+          "date": "2025.07.23 13:48:58",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "Muğla",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Dalaman Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1012,
+            39.4538
+          ]
+        },
+        "properties": {
+          "id": "e4BaKrNg3wkZu",
+          "title": "KADIKOY-BIGADIC (BALIKESIR)",
+          "magnitude": 1.9,
+          "depth": 20.8,
+          "date": "2025.07.23 12:54:52",
+          "epiCenter": "Balıkesir",
+          "closestCity": "Manisa",
+          "airports": [
+            "Balıkesir Merkez Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı",
+            "Bandırma Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.835,
+            36.3418
+          ]
+        },
+        "properties": {
+          "id": "rgjkAuPtqB2xu",
+          "title": "KONACIK-ARSUZ (HATAY)",
+          "magnitude": 1.4,
+          "depth": 10,
+          "date": "2025.07.23 12:52:30",
+          "epiCenter": "Hatay",
+          "closestCity": "Osmaniye",
+          "airports": [
+            "Hatay Havalimanı",
+            "Şakirpaşa Havalimanı",
+            "Gaziantep Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.6293,
+            37.9712
+          ]
+        },
+        "properties": {
+          "id": "4ykkPOG66rVzj",
+          "title": "BOZKOY-GERMENCIK (AYDIN)",
+          "magnitude": 1.9,
+          "depth": 8,
+          "date": "2025.07.23 12:44:42",
+          "epiCenter": "Aydın",
+          "closestCity": "İzmir",
+          "airports": [
+            "Aydın Çıldır Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Milas Bodrum Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            33.7705,
+            36.2577
+          ]
+        },
+        "properties": {
+          "id": "4tCM5shNfIhoS",
+          "title": "AKDERE-SILIFKE (MERSIN)",
+          "magnitude": 1.2,
+          "depth": 0,
+          "date": "2025.07.23 12:24:22",
+          "epiCenter": "Mersin",
+          "closestCity": "Karaman",
+          "airports": [
+            "Ercan Havalimanı",
+            "Gazipaşa Havalimanı",
+            "Şakirpaşa Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.3932,
+            40.8375
+          ]
+        },
+        "properties": {
+          "id": "PTl29kdqONu__",
+          "title": "KOMURLUK-ADAPAZARI (SAKARYA)",
+          "magnitude": 2.4,
+          "depth": 5.5,
+          "date": "2025.07.23 12:18:38",
+          "epiCenter": "Sakarya",
+          "closestCity": "Kocaeli",
+          "airports": [
+            "Cengiz Topel Havalimanı",
+            "Sabiha Gökçen Havalimanı",
+            "Bursa Yenişehir Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4345,
+            39.9165
+          ]
+        },
+        "properties": {
+          "id": "z05xjR5Lcbq28",
+          "title": "BULDUKPINAR-TEPEBASI (ESKISEHIR)",
+          "magnitude": 1.8,
+          "depth": 0,
+          "date": "2025.07.23 11:49:22",
+          "epiCenter": "Eskişehir",
+          "closestCity": "Bilecik",
+          "airports": [
+            "Eskişehir Anadolu Havalimanı",
+            "Zafer Havalimanı",
+            "Bursa Yenişehir Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            30.4343,
+            39.9165
+          ]
+        },
+        "properties": {
+          "id": "gEXkpbQ9Um6Ii",
+          "title": "BULDUKPINAR-TEPEBASI (ESKISEHIR)",
+          "magnitude": 1.8,
+          "depth": 0,
+          "date": "2025.07.23 11:49:22",
+          "epiCenter": "Eskişehir",
+          "closestCity": "Bilecik",
+          "airports": [
+            "Eskişehir Anadolu Havalimanı",
+            "Zafer Havalimanı",
+            "Bursa Yenişehir Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.8797,
+            37.1333
+          ]
+        },
+        "properties": {
+          "id": "lFGMNckNPB0I0",
+          "title": "BAGDAMLARI-MILAS (MUGLA)",
+          "magnitude": 1.7,
+          "depth": 0,
+          "date": "2025.07.23 11:40:05",
+          "epiCenter": "Muğla",
+          "closestCity": "Aydın",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Aydın Çıldır Havalimanı",
+            "Dalaman Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            43.2677,
+            38.7572
+          ]
+        },
+        "properties": {
+          "id": "tVm4awW5f8maD",
+          "title": "DAGONU-(VAN)",
+          "magnitude": 1.9,
+          "depth": 18.5,
+          "date": "2025.07.23 10:36:16",
+          "epiCenter": "Van",
+          "closestCity": "Bitlis",
+          "airports": [
+            "Van Ferit Melen Havalimanı",
+            "Ağrı Havalimanı",
+            "Muş Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.5977,
+            35.0087
+          ]
+        },
+        "properties": {
+          "id": "PEP1fl29_fFWv",
+          "title": "GIRIT ADASI (AKDENIZ)",
+          "magnitude": 3,
+          "depth": 2.1,
+          "date": "2025.07.23 09:09:42",
+          "epiCenter": "Yunanistan",
+          "closestCity": "Muğla",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Dalaman Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.0877,
+            38.6053
+          ]
+        },
+        "properties": {
+          "id": "mmqt6uK9NelCp",
+          "title": "MENEMEN (IZMIR)",
+          "magnitude": 1.8,
+          "depth": 17.2,
+          "date": "2025.07.23 09:05:08",
+          "epiCenter": "İzmir",
+          "closestCity": "Manisa",
+          "airports": [
+            "Çiğli Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.744,
+            39.1002
+          ]
+        },
+        "properties": {
+          "id": "ji92dufw0QhwF",
+          "title": "BAKIR-KIRKAGAC (MANISA)",
+          "magnitude": 1.9,
+          "depth": 3.1,
+          "date": "2025.07.23 08:25:49",
+          "epiCenter": "Manisa",
+          "closestCity": "İzmir",
+          "airports": [
+            "Balıkesir Merkez Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı",
+            "Çiğli Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.166,
+            36.0368
+          ]
+        },
+        "properties": {
+          "id": "W0eukgggDIF3K",
+          "title": "EGE DENIZI",
+          "magnitude": 2.7,
+          "depth": 16.4,
+          "date": "2025.07.23 08:04:44",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "Muğla",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Dalaman Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.3887,
+            38.2768
+          ]
+        },
+        "properties": {
+          "id": "sq1oDKFf_5wne",
+          "title": "EGE DENIZI",
+          "magnitude": 2.3,
+          "depth": 7.9,
+          "date": "2025.07.23 07:08:26",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "Yunanistan",
+          "airports": [
+            "Çiğli Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9225,
+            36.3425
+          ]
+        },
+        "properties": {
+          "id": "RDgIk2DygOM1O",
+          "title": "AVCILARSUYU-ARSUZ (HATAY)",
+          "magnitude": 2.2,
+          "depth": 6.9,
+          "date": "2025.07.23 06:23:07",
+          "epiCenter": "Hatay",
+          "closestCity": "Osmaniye",
+          "airports": [
+            "Hatay Havalimanı",
+            "Şakirpaşa Havalimanı",
+            "Gaziantep Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.263,
+            35.6317
+          ]
+        },
+        "properties": {
+          "id": "Xzkm7b0Xn3I5V",
+          "title": "GIRIT ADASI (AKDENIZ)",
+          "magnitude": 2.5,
+          "depth": 5.9,
+          "date": "2025.07.23 05:45:08",
+          "epiCenter": "Akdeniz Açıkları (Türkiye - Yunanistan)",
+          "closestCity": "Yunanistan",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Çiğli Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.0878,
+            36.7303
+          ]
+        },
+        "properties": {
+          "id": "exsYun0B3dkxR",
+          "title": "KARGI-FETHIYE (MUGLA)",
+          "magnitude": 2.1,
+          "depth": 24.1,
+          "date": "2025.07.23 05:41:19",
+          "epiCenter": "Muğla",
+          "closestCity": "Denizli",
+          "airports": [
+            "Dalaman Havalimanı",
+            "Çardak Havalimanı",
+            "Milas Bodrum Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            23.2435,
+            35.643
+          ]
+        },
+        "properties": {
+          "id": "i4chPhnCA9cca",
+          "title": "GIRIT ADASI (AKDENIZ)",
+          "magnitude": 2.8,
+          "depth": 5.5,
+          "date": "2025.07.23 05:27:47",
+          "epiCenter": "Akdeniz Açıkları (Türkiye - Yunanistan)",
+          "closestCity": "Yunanistan",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Çiğli Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.1643,
+            40.4857
+          ]
+        },
+        "properties": {
+          "id": "b3T1YnoTHXo5E",
+          "title": "SAHINYURDU-GEMLIK (BURSA)",
+          "magnitude": 1.2,
+          "depth": 11.4,
+          "date": "2025.07.23 05:27:34",
+          "epiCenter": "Bursa",
+          "closestCity": "Yalova",
+          "airports": [
+            "Bursa Havalimanı",
+            "Bursa Yenişehir Havalimanı",
+            "Sabiha Gökçen Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3312,
+            37.1353
+          ]
+        },
+        "properties": {
+          "id": "y5vtwwhqayqCv",
+          "title": "DOGAN-(MUGLA)",
+          "magnitude": 0.9,
+          "depth": 15.5,
+          "date": "2025.07.23 05:15:50",
+          "epiCenter": "Muğla",
+          "closestCity": "Aydın",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Dalaman Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.205,
+            36.6522
+          ]
+        },
+        "properties": {
+          "id": "l9oKUTE0ablCX",
+          "title": "KARACULHA-FETHIYE (MUGLA)",
+          "magnitude": 2.1,
+          "depth": 38.6,
+          "date": "2025.07.23 05:06:43",
+          "epiCenter": "Muğla",
+          "closestCity": "Denizli",
+          "airports": [
+            "Dalaman Havalimanı",
+            "Çardak Havalimanı",
+            "Antalya Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.4458,
+            38.0713
+          ]
+        },
+        "properties": {
+          "id": "bG0JJvf3fGFGK",
+          "title": "TULUM-TORBALI (IZMIR)",
+          "magnitude": 1.6,
+          "depth": 12.8,
+          "date": "2025.07.23 04:52:24",
+          "epiCenter": "İzmir",
+          "closestCity": "Aydın",
+          "airports": [
+            "Adnan Menderes Havalimanı",
+            "Aydın Çıldır Havalimanı",
+            "Çiğli Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5553,
+            38.169
+          ]
+        },
+        "properties": {
+          "id": "Gq0OCHrRwLfJd",
+          "title": "ULUKOY-(MALATYA)",
+          "magnitude": 1.5,
+          "depth": 5,
+          "date": "2025.07.23 04:41:05",
+          "epiCenter": "Adıyaman",
+          "closestCity": "Malatya",
+          "airports": [
+            "Adıyaman Havalimanı",
+            "Erhaç Havalimanı",
+            "Elazığ Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1078,
+            36.3285
+          ]
+        },
+        "properties": {
+          "id": "IqPoJjt6Bxa9I",
+          "title": "GULDEREN-(HATAY)",
+          "magnitude": 1.5,
+          "depth": 7.4,
+          "date": "2025.07.23 04:39:18",
+          "epiCenter": "Hatay",
+          "closestCity": "Kilis",
+          "airports": [
+            "Hatay Havalimanı",
+            "Şakirpaşa Havalimanı",
+            "Gaziantep Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            31.75,
+            40.1972
+          ]
+        },
+        "properties": {
+          "id": "hSfaK8UmAqbZy",
+          "title": "HIRKATEPE-BEYPAZARI (ANKARA)",
+          "magnitude": 2.2,
+          "depth": 5,
+          "date": "2025.07.23 04:20:09",
+          "epiCenter": "Ankara",
+          "closestCity": "Bolu",
+          "airports": [
+            "Sivrihisar Havalimanı",
+            "Esenboğa Havalimanı",
+            "Eskişehir Anadolu Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.0655,
+            39.7287
+          ]
+        },
+        "properties": {
+          "id": "wul9VsPfi6T6n",
+          "title": "OGULTASI-CAYIRLI (ERZINCAN)",
+          "magnitude": 1.5,
+          "depth": 9.6,
+          "date": "2025.07.23 03:37:12",
+          "epiCenter": "Erzincan",
+          "closestCity": "Bayburt",
+          "airports": [
+            "Erzincan Havalimanı",
+            "Erzurum Havalimanı",
+            "Bingöl Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.434,
+            38.8653
+          ]
+        },
+        "properties": {
+          "id": "OAMlGD7z2TDQm",
+          "title": "MIDILLI ADASI GUNEYI (EGE DENIZI)",
+          "magnitude": 1.2,
+          "depth": 10.7,
+          "date": "2025.07.23 03:31:36",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "İzmir",
+          "airports": [
+            "Çiğli Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.5305,
+            38.6075
+          ]
+        },
+        "properties": {
+          "id": "CLOWAiKXkM4R0",
+          "title": "ILICA-(MUS)",
+          "magnitude": 2.2,
+          "depth": 13.6,
+          "date": "2025.07.23 03:25:33",
+          "epiCenter": "Muş",
+          "closestCity": "Batman",
+          "airports": [
+            "Muş Havalimanı",
+            "Siirt Havalimanı",
+            "Batman Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            26.4863,
+            37.867
+          ]
+        },
+        "properties": {
+          "id": "Xp2UXtBY536xD",
+          "title": "EGE DENIZI",
+          "magnitude": 1.5,
+          "depth": 5.1,
+          "date": "2025.07.23 02:59:05",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "İzmir",
+          "airports": [
+            "Adnan Menderes Havalimanı",
+            "Çiğli Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            24.1212,
+            40.33
+          ]
+        },
+        "properties": {
+          "id": "L0k0a2waU8nNx",
+          "title": "YUNANISTAN",
+          "magnitude": 1.1,
+          "depth": 13.2,
+          "date": "2025.07.23 02:51:04",
+          "epiCenter": "Yunanistan",
+          "closestCity": "Çanakkale",
+          "airports": [
+            "Gökçeada Havalimanı",
+            "Çanakkale Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.498,
+            38.6153
+          ]
+        },
+        "properties": {
+          "id": "NZKxUHDmMUt18",
+          "title": "ILICA-(MUS)",
+          "magnitude": 1.4,
+          "depth": 5,
+          "date": "2025.07.23 02:36:23",
+          "epiCenter": "Muş",
+          "closestCity": "Batman",
+          "airports": [
+            "Muş Havalimanı",
+            "Siirt Havalimanı",
+            "Bingöl Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.5032,
+            38.6792
+          ]
+        },
+        "properties": {
+          "id": "onXTgMz1Mr2Ui",
+          "title": "DERECIK-(MUS)",
+          "magnitude": 1.4,
+          "depth": 6,
+          "date": "2025.07.23 02:16:46",
+          "epiCenter": "Muş",
+          "closestCity": "Batman",
+          "airports": [
+            "Muş Havalimanı",
+            "Bingöl Havalimanı",
+            "Siirt Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5087,
+            38.1093
+          ]
+        },
+        "properties": {
+          "id": "5mBIrBEpG1LL2",
+          "title": "GECITLI-SINCIK (ADIYAMAN)",
+          "magnitude": 1.4,
+          "depth": 15.4,
+          "date": "2025.07.23 02:15:57",
+          "epiCenter": "Adıyaman",
+          "closestCity": "Malatya",
+          "airports": [
+            "Adıyaman Havalimanı",
+            "Erhaç Havalimanı",
+            "GAP Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.9942,
+            40.0702
+          ]
+        },
+        "properties": {
+          "id": "EcF9g45ohfaNP",
+          "title": "BUGDAYLI-SULUSARAY (TOKAT)",
+          "magnitude": 1.7,
+          "depth": 5,
+          "date": "2025.07.23 02:13:04",
+          "epiCenter": "Tokat",
+          "closestCity": "Amasya",
+          "airports": [
+            "Tokat Havalimanı",
+            "Sivas Nuri Demirağ Havalimanı",
+            "Amasya Merzifon Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.5053,
+            38.6185
+          ]
+        },
+        "properties": {
+          "id": "pZB0GpPB5ITkj",
+          "title": "ILICA-(MUS)",
+          "magnitude": 2.1,
+          "depth": 6,
+          "date": "2025.07.23 02:06:58",
+          "epiCenter": "Muş",
+          "closestCity": "Batman",
+          "airports": [
+            "Muş Havalimanı",
+            "Siirt Havalimanı",
+            "Bingöl Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.6233,
+            38.205
+          ]
+        },
+        "properties": {
+          "id": "G19eojI5Nk7tr",
+          "title": "SOGUTLU-PUTURGE (MALATYA)",
+          "magnitude": 1.2,
+          "depth": 23.8,
+          "date": "2025.07.23 01:34:16",
+          "epiCenter": "Malatya",
+          "closestCity": "Adıyaman",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Adıyaman Havalimanı",
+            "Elazığ Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            41.5005,
+            38.6302
+          ]
+        },
+        "properties": {
+          "id": "UrkUwJT9US9Na",
+          "title": "ILICA-(MUS)",
+          "magnitude": 1.9,
+          "depth": 5,
+          "date": "2025.07.23 01:30:51",
+          "epiCenter": "Muş",
+          "closestCity": "Batman",
+          "airports": [
+            "Muş Havalimanı",
+            "Siirt Havalimanı",
+            "Bingöl Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.5773,
+            38.1612
+          ]
+        },
+        "properties": {
+          "id": "5DDlektQztq7M",
+          "title": "ULUKOY-(MALATYA)",
+          "magnitude": 1.2,
+          "depth": 5.4,
+          "date": "2025.07.23 01:30:09",
+          "epiCenter": "Adıyaman",
+          "closestCity": "Malatya",
+          "airports": [
+            "Adıyaman Havalimanı",
+            "Erhaç Havalimanı",
+            "Elazığ Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.3107,
+            39.2455
+          ]
+        },
+        "properties": {
+          "id": "hXgyU0vvYxiTO",
+          "title": "DALLICA-KIGI (BINGOL)",
+          "magnitude": 1.9,
+          "depth": 7,
+          "date": "2025.07.23 01:21:25",
+          "epiCenter": "Bingöl",
+          "closestCity": "Tunceli",
+          "airports": [
+            "Bingöl Havalimanı",
+            "Erzincan Havalimanı",
+            "Erzurum Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5328,
+            38.0527
+          ]
+        },
+        "properties": {
+          "id": "6o7xoRUx9T59n",
+          "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
+          "magnitude": 1.4,
+          "depth": 5.9,
+          "date": "2025.07.23 01:17:51",
+          "epiCenter": "Kahramanmaraş",
+          "closestCity": "Malatya",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Kahramanmaraş Havalimanı",
+            "Adıyaman Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.2233,
+            38.3467
+          ]
+        },
+        "properties": {
+          "id": "C8wwffK77Xg6C",
+          "title": "TOPSOGUT-(MALATYA)",
+          "magnitude": 2.1,
+          "depth": 5.9,
+          "date": "2025.07.23 01:03:05",
+          "epiCenter": "Malatya",
+          "closestCity": "Adıyaman",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Adıyaman Havalimanı",
+            "Elazığ Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.2287,
+            38.8365
+          ]
+        },
+        "properties": {
+          "id": "YytMCn860ej6w",
+          "title": "YILANHOYUK-GURUN (SIVAS)",
+          "magnitude": 1.1,
+          "depth": 8,
+          "date": "2025.07.23 00:46:26",
+          "epiCenter": "Sivas",
+          "closestCity": "Malatya",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Sivas Nuri Demirağ Havalimanı",
+            "Kahramanmaraş Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.7457,
+            37.5287
+          ]
+        },
+        "properties": {
+          "id": "wUHSBSc46CgkO",
+          "title": "KOSELI-KOZAN (ADANA)",
+          "magnitude": 1.5,
+          "depth": 14.3,
+          "date": "2025.07.23 00:44:55",
+          "epiCenter": "Adana",
+          "closestCity": "Osmaniye",
+          "airports": [
+            "Şakirpaşa Havalimanı",
+            "Kahramanmaraş Havalimanı",
+            "Hatay Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.2193,
+            37.445
+          ]
+        },
+        "properties": {
+          "id": "iTtHos8pAnUvB",
+          "title": "YALIKOY-DIDIM (AYDIN)",
+          "magnitude": 1.2,
+          "depth": 5.1,
+          "date": "2025.07.23 00:41:31",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "Aydın",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Aydın Çıldır Havalimanı",
+            "Adnan Menderes Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7863,
+            40.5978
+          ]
+        },
+        "properties": {
+          "id": "kYZVofnTRnsRI",
+          "title": "ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI)",
+          "magnitude": 2.5,
+          "depth": 7.8,
+          "date": "2025.07.23 00:32:47",
+          "epiCenter": "Marmara Denizi",
+          "closestCity": "Yalova",
+          "airports": [
+            "Atatürk Havalimanı",
+            "Bursa Havalimanı",
+            "Sabiha Gökçen Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            32.5395,
+            37.5922
+          ]
+        },
+        "properties": {
+          "id": "8LgRYIfshvKck",
+          "title": "SECME-CUMRA (KONYA)",
+          "magnitude": 1.4,
+          "depth": 7.7,
+          "date": "2025.07.23 00:29:08",
+          "epiCenter": "Konya",
+          "closestCity": "Karaman",
+          "airports": [
+            "Konya Havalimanı",
+            "Gazipaşa Havalimanı",
+            "Antalya Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            25.6785,
+            36.7035
+          ]
+        },
+        "properties": {
+          "id": "MJrQo5AvBPksw",
+          "title": "EGE DENIZI",
+          "magnitude": 2,
+          "depth": 7.7,
+          "date": "2025.07.23 00:26:16",
+          "epiCenter": "Ege Denizi",
+          "closestCity": "Yunanistan",
+          "airports": [
+            "Milas Bodrum Havalimanı",
+            "Adnan Menderes Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            40.2882,
+            39.2022
+          ]
+        },
+        "properties": {
+          "id": "DvrIuijeh_fJ2",
+          "title": "DARKOPRU-KIGI (BINGOL)",
+          "magnitude": 1.4,
+          "depth": 20.6,
+          "date": "2025.07.23 00:23:17",
+          "epiCenter": "Bingöl",
+          "closestCity": "Tunceli",
+          "airports": [
+            "Bingöl Havalimanı",
+            "Erzincan Havalimanı",
+            "Elazığ Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.4895,
+            38.0258
+          ]
+        },
+        "properties": {
+          "id": "RrJBpETD34K4e",
+          "title": "TATLAR-NURHAK (KAHRAMANMARAS)",
+          "magnitude": 1.4,
+          "depth": 8,
+          "date": "2025.07.23 00:20:40",
+          "epiCenter": "Kahramanmaraş",
+          "closestCity": "Adıyaman",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Kahramanmaraş Havalimanı",
+            "Adıyaman Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            39.5905,
+            38.381
+          ]
+        },
+        "properties": {
+          "id": "f0tPmSgrXIz3r",
+          "title": "CAYIRKOY-MADEN (ELAZIG)",
+          "magnitude": 1.4,
+          "depth": 12.4,
+          "date": "2025.07.22 23:54:26",
+          "epiCenter": "Elazığ",
+          "closestCity": "Diyarbakır",
+          "airports": [
+            "Elazığ Havalimanı",
+            "Diyarbakır Havalimanı",
+            "Bingöl Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.6997,
+            38.4772
+          ]
+        },
+        "properties": {
+          "id": "CpjZzoqu5bV8d",
+          "title": "HISARKALE-DARENDE (MALATYA)",
+          "magnitude": 1.2,
+          "depth": 20.9,
+          "date": "2025.07.22 23:51:09",
+          "epiCenter": "Malatya",
+          "closestCity": "Kahramanmaraş",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Adıyaman Havalimanı",
+            "Kahramanmaraş Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.1613,
+            40.4158
+          ]
+        },
+        "properties": {
+          "id": "sJgwz4IfTO3JV",
+          "title": "BANDIRMA ACIKLARI-BALIKESIR (MARMARA DENIZI)",
+          "magnitude": 1.5,
+          "depth": 7.1,
+          "date": "2025.07.22 23:45:11",
+          "epiCenter": "Marmara Denizi",
+          "closestCity": "Balıkesir",
+          "airports": [
+            "Bandırma Havalimanı",
+            "Bursa Havalimanı",
+            "Tekirdağ Çorlu Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.778,
+            40.5995
+          ]
+        },
+        "properties": {
+          "id": "dUEdxpaUmMT2M",
+          "title": "ARMUTLU ACIKLARI-YALOVA (MARMARA DENIZI)",
+          "magnitude": 2.9,
+          "depth": 5.6,
+          "date": "2025.07.22 23:42:56",
+          "epiCenter": "Marmara Denizi",
+          "closestCity": "Yalova",
+          "airports": [
+            "Atatürk Havalimanı",
+            "Bursa Havalimanı",
+            "Sabiha Gökçen Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            27.3593,
+            40.7357
+          ]
+        },
+        "properties": {
+          "id": "1LCFd9qmapij_",
+          "title": "GAZIKOY-SARKOY (TEKIRDAG)",
+          "magnitude": 1.5,
+          "depth": 11.8,
+          "date": "2025.07.22 22:36:46",
+          "epiCenter": "Marmara Denizi",
+          "closestCity": "Tekirdağ",
+          "airports": [
+            "Tekirdağ Çorlu Havalimanı",
+            "Bandırma Havalimanı",
+            "Çanakkale Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.1012,
+            38.0582
+          ]
+        },
+        "properties": {
+          "id": "7wBgIHdVfrc_B",
+          "title": "NALTAS-SAIMBEYLI (ADANA)",
+          "magnitude": 1.4,
+          "depth": 13,
+          "date": "2025.07.22 22:34:26",
+          "epiCenter": "Adana",
+          "closestCity": "Kayseri",
+          "airports": [
+            "Kahramanmaraş Havalimanı",
+            "Kayseri Erkilet Havalimanı",
+            "Şakirpaşa Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.3013,
+            40.81
+          ]
+        },
+        "properties": {
+          "id": "vrdX1puoEYcpC",
+          "title": "MARMARA DENIZI",
+          "magnitude": 2,
+          "depth": 6.3,
+          "date": "2025.07.22 21:52:35",
+          "epiCenter": "Marmara Denizi",
+          "closestCity": "İstanbul",
+          "airports": [
+            "Atatürk Havalimanı",
+            "Tekirdağ Çorlu Havalimanı",
+            "İstanbul Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.7588,
+            38.2385
+          ]
+        },
+        "properties": {
+          "id": "lA50eaoAj1Bsb",
+          "title": "TURKSEVIN-AFSIN (KAHRAMANMARAS)",
+          "magnitude": 1.3,
+          "depth": 11.3,
+          "date": "2025.07.22 21:20:48",
+          "epiCenter": "Kahramanmaraş",
+          "closestCity": "Kayseri",
+          "airports": [
+            "Kahramanmaraş Havalimanı",
+            "Erhaç Havalimanı",
+            "Kayseri Erkilet Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            38.8433,
+            38.3315
+          ]
+        },
+        "properties": {
+          "id": "HEu5LiAKLF2pg",
+          "title": "UYANIK-KALE (MALATYA)",
+          "magnitude": 1.3,
+          "depth": 5,
+          "date": "2025.07.22 21:07:48",
+          "epiCenter": "Malatya",
+          "closestCity": "Elazığ",
+          "airports": [
+            "Elazığ Havalimanı",
+            "Erhaç Havalimanı",
+            "Adıyaman Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            37.5307,
+            38.4397
+          ]
+        },
+        "properties": {
+          "id": "pHANA1jZHSK4r",
+          "title": "SUGUL-DARENDE (MALATYA)",
+          "magnitude": 1.3,
+          "depth": 3.7,
+          "date": "2025.07.22 20:58:41",
+          "epiCenter": "Malatya",
+          "closestCity": "Kahramanmaraş",
+          "airports": [
+            "Erhaç Havalimanı",
+            "Kahramanmaraş Havalimanı",
+            "Adıyaman Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            42.3328,
+            38.8535
+          ]
+        },
+        "properties": {
+          "id": "GMNSXt9Cc7FDZ",
+          "title": "OVAKISLA-AHLAT (BITLIS)",
+          "magnitude": 2,
+          "depth": 6.1,
+          "date": "2025.07.22 19:47:14",
+          "epiCenter": "Bitlis",
+          "closestCity": "Muş",
+          "airports": [
+            "Muş Havalimanı",
+            "Van Ferit Melen Havalimanı",
+            "Siirt Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            29.528,
+            36.3955
+          ]
+        },
+        "properties": {
+          "id": "wDpiiUG0n0bJo",
+          "title": "CAMLIOVA-KAS (ANTALYA)",
+          "magnitude": 1.5,
+          "depth": 20.7,
+          "date": "2025.07.22 19:26:39",
+          "epiCenter": "Antalya",
+          "closestCity": "Muğla",
+          "airports": [
+            "Dalaman Havalimanı",
+            "Antalya Havalimanı",
+            "Çardak Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.7227,
+            37.9532
+          ]
+        },
+        "properties": {
+          "id": "IeBtP_eSzADcW",
+          "title": "BUHARKENT (AYDIN)",
+          "magnitude": 1.1,
+          "depth": 4.8,
+          "date": "2025.07.22 19:15:53",
+          "epiCenter": "Aydın",
+          "closestCity": "Denizli",
+          "airports": [
+            "Aydın Çıldır Havalimanı",
+            "Çardak Havalimanı",
+            "Uşak Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.4213,
+            38.0795
+          ]
+        },
+        "properties": {
+          "id": "aZPqgSgG40804",
+          "title": "SOGUKPINAR-GOKSUN (KAHRAMANMARAS)",
+          "magnitude": 1.7,
+          "depth": 5.2,
+          "date": "2025.07.22 18:52:58",
+          "epiCenter": "Kahramanmaraş",
+          "closestCity": "Kayseri",
+          "airports": [
+            "Kahramanmaraş Havalimanı",
+            "Kayseri Erkilet Havalimanı",
+            "Erhaç Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.278,
+            39.1123
+          ]
+        },
+        "properties": {
+          "id": "G61MwFoNvjvAg",
+          "title": "YUREGIL-SINDIRGI (BALIKESIR)",
+          "magnitude": 1.6,
+          "depth": 11.5,
+          "date": "2025.07.22 17:16:30",
+          "epiCenter": "Balıkesir",
+          "closestCity": "Manisa",
+          "airports": [
+            "Balıkesir Merkez Havalimanı",
+            "Uşak Havalimanı",
+            "Balıkesir Koca Seyit Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            36.5508,
+            36.5585
+          ]
+        },
+        "properties": {
+          "id": "lvJQ5XtfZIRvC",
+          "title": "INCIRLI-KIRIKHAN (HATAY)",
+          "magnitude": 2.1,
+          "depth": 14.3,
+          "date": "2025.07.22 17:16:20",
+          "epiCenter": "Hatay",
+          "closestCity": "Kilis",
+          "airports": [
+            "Hatay Havalimanı",
+            "Gaziantep Havalimanı",
+            "Kahramanmaraş Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            28.6288,
+            36.4997
+          ]
+        },
+        "properties": {
+          "id": "vtITOLcMihMAp",
+          "title": "AKDENIZ",
+          "magnitude": 1.7,
+          "depth": 16.8,
+          "date": "2025.07.22 16:53:24",
+          "epiCenter": "Akdeniz Açıkları (Türkiye)",
+          "closestCity": "Muğla",
+          "airports": [
+            "Dalaman Havalimanı",
+            "Milas Bodrum Havalimanı",
+            "Aydın Çıldır Havalimanı"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.8885,
+            40.9157
+          ]
+        },
+        "properties": {
+          "id": "Xzic3EgKkB7CS",
+          "title": "LADIK (SAMSUN)",
+          "magnitude": 2.4,
+          "depth": 8.4,
+          "date": "2025.07.22 16:35:33",
+          "epiCenter": "Samsun",
+          "closestCity": "Amasya",
+          "airports": [
+            "Amasya Merzifon Havalimanı",
+            "Samsun Çarşamba Havalimanı",
+            "Tokat Havalimanı"
+          ]
+        }
+      }
+    ]
+  }
+]
